@@ -2,7 +2,7 @@
 
 # Overview
 
-(./docs/architecture.png)
+![architecture api](./docs/architecture.png)
 
 Nwave-Weather Project are Based on Case [Roadmap-Golang](https://roadmap.sh/projects/weather-api-wrapper-service/) which using couple tools like (Redis, API-Weather, Etc).
 
