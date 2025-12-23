@@ -1,4 +1,4 @@
-# NWAVE-Weather-API #
+# ⛅NWAVE-Weather-API #
 
 # Overview
 
